@@ -1,1 +1,1 @@
-# ahorcado
+Juego del ahorcado en Bash.
